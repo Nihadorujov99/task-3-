@@ -1,3 +1,4 @@
+
 ﻿   Console.Write("Eded daxil edin: ");
         int eded = Convert.ToInt32(Console.ReadLine());
 
@@ -13,3 +14,12 @@
         {
             Console.WriteLine("Eded sifirdir");
         }
+
+﻿Console.WriteLine("Eded Daxil Edin");
+double number = Convert.ToDouble(Console.ReadLine());
+
+double kub = number * number * number;
+
+Console.WriteLine("Ededin Kubu:" + kub);
+
+
