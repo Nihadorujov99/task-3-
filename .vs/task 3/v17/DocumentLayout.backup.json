@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "task 3\\Program.cs",
               "ToolTip": "C:\\Users\\Classtime.PC_6_213_11\\Desktop\\task-3-\\task-3-\\task 3\\Program.cs",
               "RelativeToolTip": "task 3\\Program.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+=======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+>>>>>>> 836396eddf3a37de5b26a998b950a1779d342bad
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T08:05:38.996Z",
               "EditorCaption": ""

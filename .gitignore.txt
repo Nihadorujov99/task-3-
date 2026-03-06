@@ -1,0 +1,36 @@
+## Build nəticələri
+bin/
+obj/
+
+## Visual Studio cache və user faylları
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+
+## OS faylları
+.DS_Store
+Thumbs.db
+
+## Log və müvəqqəti fayllar
+*.log
+*.tmp
+*.temp
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## Publish
+publish/
+
+## Test nəticələri
+TestResults/
+
+## Rider
+*.DotSettings.user
